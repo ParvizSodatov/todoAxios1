@@ -126,11 +126,11 @@ export default function App() {
             onChange={(e) => setCityFilter(e.target.value)}
           >
             <option>All</option>
-            <option>Dushanbe</option>
-            <option>Khujand</option>
-            <option>Bokhtar</option>
-            <option>Hisar</option>
-            <option>Kulob</option>
+            <option>Tajikistan</option>
+            <option>Egypt</option>
+            <option>Mandalayziya</option>
+            <option>Brasil</option>
+            <option>USA</option>
           </select>
           <input
             type="text"
